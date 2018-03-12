@@ -1,0 +1,3 @@
+package com.infoandroid.weatherpoc.restCall;
+
+public enum TaskResult { SUCCESS, BAD_RESPONSE, IO_EXCEPTION, TOO_MANY_REQUESTS; }
